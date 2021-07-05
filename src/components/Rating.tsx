@@ -45,3 +45,5 @@ function Star(props: StarPropsType) {
         {props.selected ? <b>star </b> : "star "}
     </span>
 }
+
+export default Rating;
